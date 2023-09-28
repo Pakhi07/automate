@@ -1,0 +1,5 @@
+__pycache__/
+mysite/__pycache__/
+db.sqlite3
+env/
+light_data/__pycache__/
